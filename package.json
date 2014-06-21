@@ -14,7 +14,7 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/zeMirco/lockit-delete-account"
+    "url": "https://github.com/koolaid1551/lockit-delete-account"
   },
   "keywords": [
     "lockit",
@@ -23,7 +23,7 @@
   ],
   "dependencies": {
     "couch-pwd": "0.0.1",
-    "lockit-utils": "^0.4.2"
+    "lockit-utils": "https://github.com/koolaid1551/lockit-utilities/tarball/tc"
   },
   "devDependencies": {
     "cookie": "^0.1.2",
